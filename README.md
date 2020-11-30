@@ -1,7 +1,9 @@
 # Sword Fern Microbiome Project
 ### New Features!
-Date updated: 2020-11-20
+2020-11-30
+A key has been added with units and other descriptive notes for the other raw data files.
 
+2020-11-20
 In the data_understory.csv and data_trees.csv files, the scientific names have been updated to their current binomials (eg Blechnum spicant -> Struthiopteris spicant). Native status (yes/no) has also been added.
 
 ### Description
