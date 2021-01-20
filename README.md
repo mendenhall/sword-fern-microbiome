@@ -27,4 +27,4 @@ Preliminary reports and miscellaneous documentation is stored in the docs folder
 Thank you, Andres Barrera, for your hard work in the field and lab. Much thanks also goes to the good folks at Friends of Seward Park, MPG Ranch, SoundBio Lab and Seattle Parks and Recreation. Your feedback and support was crucial to the success of our research. This project was also made possible through a generous grant from 100 Women Who Care.
 
 ### License
-&copy; 2020 Haven Ecology and Research, LLC. This work is licensed under a [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/).
+&copy; 2020 Haven Ecology and Research LLC. This work is licensed under a [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/).
